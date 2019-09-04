@@ -1,0 +1,2 @@
+/Users/anguyen/RiderProjects/CIV-OO-Challenge-1/ShapesTest/obj/Debug/ShapesTest.csprojResolveAssemblyReference.cache
+/Users/anguyen/RiderProjects/CIV-OO-Challenge-1/ShapesTest/obj/Debug/ShapesTest.csproj.CoreCompileInputs.cache

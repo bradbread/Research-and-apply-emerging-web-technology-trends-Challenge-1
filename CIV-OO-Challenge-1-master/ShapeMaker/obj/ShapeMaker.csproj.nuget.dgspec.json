@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\102673815\\Documents\\GitHub\\Research-and-apply-emerging-web-technology-trends-Challenge-1\\CIV-OO-Challenge-1-master\\ShapeMaker\\ShapeMaker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\102673815\\Documents\\GitHub\\Research-and-apply-emerging-web-technology-trends-Challenge-1\\CIV-OO-Challenge-1-master\\ShapeMaker\\ShapeMaker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\102673815\\Documents\\GitHub\\Research-and-apply-emerging-web-technology-trends-Challenge-1\\CIV-OO-Challenge-1-master\\ShapeMaker\\ShapeMaker.csproj",
+        "projectName": "ShapeMaker",
+        "projectPath": "C:\\Users\\102673815\\Documents\\GitHub\\Research-and-apply-emerging-web-technology-trends-Challenge-1\\CIV-OO-Challenge-1-master\\ShapeMaker\\ShapeMaker.csproj",
+        "packagesPath": "C:\\Users\\102673815\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\102673815\\Documents\\GitHub\\Research-and-apply-emerging-web-technology-trends-Challenge-1\\CIV-OO-Challenge-1-master\\ShapeMaker\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\102673815\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\102673815\\Documents\\GitHub\\Research-and-apply-emerging-web-technology-trends-Challenge-1\\CIV-OO-Challenge-1-master\\Shapes\\Shapes.csproj": {
+                "projectPath": "C:\\Users\\102673815\\Documents\\GitHub\\Research-and-apply-emerging-web-technology-trends-Challenge-1\\CIV-OO-Challenge-1-master\\Shapes\\Shapes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\102673815\\Documents\\GitHub\\Research-and-apply-emerging-web-technology-trends-Challenge-1\\CIV-OO-Challenge-1-master\\Shapes\\Shapes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\102673815\\Documents\\GitHub\\Research-and-apply-emerging-web-technology-trends-Challenge-1\\CIV-OO-Challenge-1-master\\Shapes\\Shapes.csproj",
+        "projectName": "Shapes",
+        "projectPath": "C:\\Users\\102673815\\Documents\\GitHub\\Research-and-apply-emerging-web-technology-trends-Challenge-1\\CIV-OO-Challenge-1-master\\Shapes\\Shapes.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}
